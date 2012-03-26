@@ -10,11 +10,14 @@
 
 ## Usage
 
-    $ sinatra-appgen -h
+    $ git clone git://github.com/ramtiga/sinatra-appgen.git
+    $ cd sinatra-appgen
+
+    $ bin/sinatra-appgen -h
     Usage:
       sinatra-appgen [appname] [path]
     
-    $ sinatra-appgen sample .
+    $ bin/sinatra-appgen sample .
 
       create  sample/.gitignore
       create  sample/Gemfile
