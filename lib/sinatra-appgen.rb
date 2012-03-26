@@ -3,7 +3,6 @@
 require 'thor'
 require 'thor/group'
 require 'thor/util'
-require 'thor/util'
 require 'active_support/inflector'
 
 require "sinatra-appgen/version"
