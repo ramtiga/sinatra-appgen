@@ -5,13 +5,11 @@
 
 ## Install
 
-    $ gem install sinatra-appgen
+    $ git clone git://github.com/ramtiga/sinatra-appgen.git
+    $ cd sinatra-appgen
 
 
 ## Usage
-
-    $ git clone git://github.com/ramtiga/sinatra-appgen.git
-    $ cd sinatra-appgen
 
     $ bin/sinatra-appgen -h
     Usage:
